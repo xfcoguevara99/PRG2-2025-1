@@ -1,0 +1,3 @@
+
+void leitura();
+int contatos();

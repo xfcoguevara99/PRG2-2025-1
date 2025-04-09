@@ -132,5 +132,5 @@ void teste2_string(){
     }
     printf("\ncontador de palavra na frase: %d",contador);
 
-    printf("\nfrase nova: %s",frase_nova);
+    //printf("\nfrase nova: %s",frase_nova);
 }
