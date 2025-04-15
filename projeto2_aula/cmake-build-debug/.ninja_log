@@ -1,0 +1,5 @@
+# ninja log v6
+1	29	1744748556643388347	CMakeFiles/projeto2_aula.dir/main.c.o	a107f1d579daa7fc
+1	34	1744748556643388347	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/pilha.c.o	86e6700d95575f33
+34	40	1744748556675388541	_deps/libprg-build/libprg/liblibprg.a	cc749704c9398520
+40	58	1744748556683388589	projeto2_aula	3e793273a76ebceb

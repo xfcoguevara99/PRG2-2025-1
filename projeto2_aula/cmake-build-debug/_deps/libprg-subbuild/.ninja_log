@@ -1,0 +1,21 @@
+# ninja log v6
+0	8	1744748533399247601	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir	4af24ff6975a7783
+0	8	1744748533399247601	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir	4af24ff6975a7783
+8	23	1744748533415247700	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download	4d39b19432191dee
+8	23	1744748533415247700	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download	4d39b19432191dee
+23	37	1744748533427247771	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update	3a4ed7094b7a3a80
+23	37	1744748533427247771	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update	3a4ed7094b7a3a80
+37	43	1744748533435247821	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch	e6eea91809b2592c
+37	43	1744748533435247821	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch	e6eea91809b2592c
+43	50	1744748533443247869	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure	c308b9997d8695a6
+43	50	1744748533443247869	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure	c308b9997d8695a6
+50	60	1744748533451247917	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build	6a2cdc6fcbe2a554
+50	60	1744748533451247917	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build	6a2cdc6fcbe2a554
+60	79	1744748533471248039	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install	d297fa00e9c8d786
+60	79	1744748533471248039	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install	d297fa00e9c8d786
+80	86	1744748533479248086	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test	dd2e722fcef495f4
+80	86	1744748533479248086	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test	dd2e722fcef495f4
+86	94	1744748533487248136	CMakeFiles/libprg-populate-complete	30f0cf2aebd9fc50
+86	94	1744748533487248136	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-done	30f0cf2aebd9fc50
+86	94	1744748533487248136	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate-complete	30f0cf2aebd9fc50
+86	94	1744748533487248136	/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-done	30f0cf2aebd9fc50

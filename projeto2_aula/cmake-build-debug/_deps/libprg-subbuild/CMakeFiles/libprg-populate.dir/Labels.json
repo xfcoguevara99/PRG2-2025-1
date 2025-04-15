@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test.rule"
+		},
+		{
+			"file" : "/home/aluno/Downloads/projeto2_aula/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libprg-populate"
+		],
+		"name" : "libprg-populate"
+	}
+}
